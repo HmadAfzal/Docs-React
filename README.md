@@ -1,6 +1,6 @@
 # Docs App
 
-!(Docs.PNG)[Docs.PNG]
+![Docs](Docs.PNG)
 
 This is a documentation app built using React with Vite as the build tool.
 
